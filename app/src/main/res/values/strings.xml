@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapBox Practice</string>
+    <string name="mapbox_access_token">add your access token</string>
+</resources>
